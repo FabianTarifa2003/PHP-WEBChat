@@ -1,4 +1,3 @@
-Certainly! Here's a template for a README file for a PHP chat web project on GitHub:
 
 ---
 
@@ -13,7 +12,6 @@ A simple chat web application built with PHP, MySQL, and AJAX for real-time mess
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
